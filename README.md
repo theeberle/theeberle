@@ -1,6 +1,6 @@
-### Webdeveloper👩‍💻 with a women and human rights backround
+### Webdeveloper👩‍💻 with a women and human rights background
 
-- I am especially interested in protection mechanism against digital violence 🙅‍♀️ and IT-security.
-- 🌱 Currently I am working with co-students on a webside to reduce and track your carbon footprint.🦶
+- I am especially interested in IT-Security and protection mechanisms against digital violence 🙅‍♀️.
+- 🌱 Currently I am working with a team of four on a web-application to reduce and track users' carbon footprint.🦶
 - 👯 Looking to collaborate on open source projects with a positive social impact.
-- Still have to learn a lot (of course)🤯, so I’m looking for help with all my coding related questions.🙋‍♀️
+- Enthusiastic about learning more, so would appreciate help with all my coding related questions.🙋‍♀️
